@@ -1,0 +1,20 @@
+From b7728cd5ec884b9636c92d859046ef2234241a6a Mon Sep 17 00:00:00 2001
+From: me <bidulyeonghyeon@gmail.com>
+Date: Mon, 8 Aug 2022 10:57:46 +0900
+Subject: [PATCH] =?UTF-8?q?=EB=A9=94=EC=9D=B8=EC=9A=A9=EC=9E=85=EB=8B=88?=
+ =?UTF-8?q?=EB=8B=A4?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 메인용.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 메인용.txt
+
+diff --git a/메인용.txt b/메인용.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.37.1.windows.1
+
